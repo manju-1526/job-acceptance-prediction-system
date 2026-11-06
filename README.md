@@ -145,13 +145,13 @@ The interactive dashboards are deployed using Streamlit Community Cloud.
 
 This dashboard compares the performance of three Machine Learning classification models.
 
-👉 Open ML Streamlit Dashboard
+👉 Open [https://job-acceptance-ml-dashboard.streamlit.app/](https://job-acceptance-ml-dashboard.streamlit.app/)
 
 📊 Final Streamlit Dashboard
 
 This dashboard presents job placement analysis using key performance indicators (KPIs) and six visualization charts.
 
-👉 Open Final Streamlit Dashboard
+👉 Open [https://job-acceptance-kpi-dashboard.streamlit.app/](https://job-acceptance-kpi-dashboard.streamlit.app/)
 
 📑 PowerPoint Dashboard PDF
 
