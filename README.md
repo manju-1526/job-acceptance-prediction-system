@@ -157,7 +157,7 @@ This dashboard presents job placement analysis using key performance indicators 
 
 The PowerPoint dashboard provides a visual summary of the job placement analysis.
 
-👉 Open Job_Placement_Analysis_Dashboard.pdf
+👉 View Job_Placement_Analysis_Dashboard.pdf
 
 🎯 Project Goal
 
